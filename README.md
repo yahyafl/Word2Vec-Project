@@ -16,7 +16,7 @@
     <ul>
         <li>Python</li>
         <li>Jupyter Notebook</li>
-        <li>gensim, pandas, numpy</li>
+        <li>gensim, pandas, numpy,tensorflow</li>
     </ul>
     <h2>🚀 How to Run</h2>
     <pre>
